@@ -1,0 +1,2 @@
+cd Work\Projects\Project CS\SubProject HR
+python setup.py build_ext --inplace
